@@ -17,7 +17,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/backgroung_homepage.jpeg
+    background_image: images/REALIZZAZIONE SITI WEB (4).png
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 20
