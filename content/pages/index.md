@@ -139,9 +139,9 @@ sections:
         image: images/Untitled design (4).png
       - title_align: left
         content: |
-          ## Anas Bennar
+          ##     Anas Bennar
 
-          Co-founder, Graphic Manager
+                Co-founder, Graphic Manager
         content_align: left
         actions: []
         actions_align: left
