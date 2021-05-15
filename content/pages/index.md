@@ -19,7 +19,7 @@ sections:
     background_color: primary
     background_image: images/backgroung_homepage.jpeg
     background_image_repeat: no-repeat
-    background_image_size: cover
+    background_image_size: auto
     background_image_opacity: 20
     has_border: true
   - type: blog_feed_section
