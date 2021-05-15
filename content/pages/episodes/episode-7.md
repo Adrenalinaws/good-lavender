@@ -1,8 +1,7 @@
 ---
 title: MATERIALE GRAFICO
 date: '2020-11-15'
-categories:
-  - content/data/categories/season-1.yaml
+categories: []
 thumb_image: images/fotonerd-frasi-che-fanno-arrabbiare-i-fotografi-1.jpg
 thumb_image_alt: Episode 7 placeholder image
 image: images/post-7.jpg
