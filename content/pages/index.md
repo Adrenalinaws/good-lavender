@@ -91,40 +91,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: IL TEAM
-  - type: grid_section
-    title: PARTNERS
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Stackbit logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Sticker Mule logo
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: GitHub logo
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Twilio logo
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Forestry logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    has_border: true
-    background_color: none
-    subtitle: 'Siamo sostenuti da fantastiche aziende '
   - type: form_section
     content: >
       ## CONTATTACI
@@ -169,6 +135,40 @@ sections:
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 98
+  - type: grid_section
+    title: PARTNERS
+    align: center
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Stackbit logo
+        image_align: center
+      - image: images/logo-2.svg
+        image_alt: Netlify logo
+        image_align: center
+      - image: images/logo-3.svg
+        image_alt: Sticker Mule logo
+        image_align: center
+      - image: images/logo-4.svg
+        image_alt: GitHub logo
+        image_align: center
+      - image: images/logo-5.svg
+        image_alt: Gatsby logo
+        image_align: center
+      - image: images/logo-6.svg
+        image_alt: Twilio logo
+        image_align: center
+      - image: images/logo-7.svg
+        image_alt: Contentful logo
+        image_align: center
+      - image: images/logo-8.svg
+        image_alt: Forestry logo
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    has_border: true
+    background_color: none
+    subtitle: 'Siamo sostenuti da fantastiche aziende '
 seo:
   title: Stackbit Podcaster Theme
   description: The preview of the Podcaster theme
