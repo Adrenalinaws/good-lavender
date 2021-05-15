@@ -43,13 +43,9 @@ seo:
       relativeUrl: true
 layout: post
 ---
-**Vendi i tuoi servizi online**
-
-
+# **Vendi i tuoi servizi online**
 
 Offri servizi online e vuoi farli prenotare online sul tuo sito? Con il nuovo componente Servizi di Flazio puoi farlo con facilità! Potrai infatti configurare e rendere disponibili online diverse tipologie di servizi: i tuoi clienti potranno prenotare un corso, fissare un appuntamento con te o con un professionista del tuo staff, noleggiare qualsiasi tipo di prodotto oppure acquistare pacchetti. Qualsiasi sia il servizio che offri, i tuoi clienti potranno selezionare la data del servizio e pagarlo direttamente online.
-
-
 
 ## **​Qualsiasi carta**
 
