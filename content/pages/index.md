@@ -121,7 +121,7 @@ sections:
     background_image_opacity: 98
   - actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: ANA
         subtitle: lorem-ipsum
         title_align: left
         content: >-
