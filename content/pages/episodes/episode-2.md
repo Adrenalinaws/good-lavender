@@ -6,7 +6,7 @@ subtitle: >-
 date: '2020-08-14'
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: images/post-2.jpg
+thumb_image: images/copywriting.jpg
 thumb_image_alt: Podcast 2 placeholder image
 image: images/post-2.jpg
 image_alt: Podcast 2 placeholder image
