@@ -82,7 +82,7 @@ sections:
       ## CONTATTACI
 
 
-      Hai qualche domanda sui servizi di adrenalina o vuoi semplicemente saperne
+      Hai qualche domanda sui servizi di Adrenalina o vuoi semplicemente saperne
       di più? Scrivici nella form box
     content_align: left
     form_position: right
