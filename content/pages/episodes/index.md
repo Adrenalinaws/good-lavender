@@ -44,6 +44,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
+    subtitle: Ricevi notifiche su nuovi servizi o promozioni
 seo:
   title: Episodes
   description: This is the episodes page
