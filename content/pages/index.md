@@ -3,9 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: ADRENALINA WEB SERVICES
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: |
+      Passa dalla realtà fisica a quella online con Adrenalina
     actions:
       - label: SCOPRI
         url: /thank-you
