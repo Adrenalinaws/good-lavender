@@ -6,7 +6,7 @@ subtitle: >-
 date: '2020-11-15'
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: images/post-7.jpg
+thumb_image: images/fotonerd-frasi-che-fanno-arrabbiare-i-fotografi-1.jpg
 thumb_image_alt: Episode 7 placeholder image
 image: images/post-7.jpg
 image_alt: Episode 7 placeholder image
