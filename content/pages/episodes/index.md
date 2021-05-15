@@ -26,7 +26,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: form_section
-    title: Get Podcast Straight Into your Inbox
+    title: Ricevi notifiche su nuovi servizi o promozioni
     title_align: center
     content_align: center
     form_position: bottom
