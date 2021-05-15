@@ -8,7 +8,7 @@ sections:
     actions:
       - label: SCOPRI
         url: /thank-you
-        style: primary
+        style: secondary
     image: images/backgroung_homepage.jpeg
     image_alt: Hero section placeholder image
     media_position: left
