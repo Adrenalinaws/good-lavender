@@ -46,7 +46,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ## Alessandro Mallia
+          # Alessandro Mallia
 
           Co-founder, Marketing Manager
         content_align: left
