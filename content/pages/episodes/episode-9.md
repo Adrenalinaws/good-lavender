@@ -8,7 +8,7 @@ categories:
   - content/data/categories/season-2.yaml
 thumb_image: images/thoughtful-kangaroo.jpeg
 thumb_image_alt: Episode 9 placeholder image
-image: images/post-9.jpg
+image: images/backgroung_homepage.jpeg
 image_alt: Episode 9 placeholder image
 image_position: left
 episode_embed_html: >-
