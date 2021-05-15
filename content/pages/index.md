@@ -92,7 +92,7 @@ sections:
     type: grid_section
     title: IL TEAM
   - type: grid_section
-    title: PRTNERS
+    title: PARTNERS
     align: center
     grid_items:
       - image: images/logo-1.svg
