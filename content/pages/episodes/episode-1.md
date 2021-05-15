@@ -1,7 +1,5 @@
 ---
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+subtitle: Progetto in pre
 date: '2020-07-15'
 categories:
   - content/data/categories/season-1.yaml
