@@ -117,7 +117,7 @@ sections:
     background_color: none
     background_image: images/backgroung_homepage.jpeg
     background_image_repeat: repeat
-    background_image_size: auto
+    background_image_size: cover
     background_image_opacity: 98
 seo:
   title: Stackbit Podcaster Theme
