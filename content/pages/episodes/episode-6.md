@@ -1,5 +1,5 @@
 ---
-title: Episode 6 - Amet Nulla Facilisi Morbi Tempus
+title: TRADUZIONI
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
