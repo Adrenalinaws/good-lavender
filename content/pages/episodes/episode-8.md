@@ -6,7 +6,7 @@ subtitle: >-
 date: '2020-12-28'
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: images/post-8.jpg
+thumb_image: images/brand-marketing.jpeg
 thumb_image_alt: Episode 8 placeholder image
 image: images/post-8.jpg
 image_alt: Episode 8 placeholder image
