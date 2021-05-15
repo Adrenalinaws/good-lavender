@@ -137,8 +137,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Untitled design (4).png
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           ## Anas Bennar
 
