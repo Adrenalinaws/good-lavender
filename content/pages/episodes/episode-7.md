@@ -43,12 +43,30 @@ seo:
       relativeUrl: true
 layout: post
 ---
+# **La comunicazione visiva è uno degli strumenti più antichi di informazione.**&#xA;&#xA;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+Nasce con l’arte preistorica e prosegue con le tecniche più avanzate dei giorni nostri. Durante gli sciagurati regimi totalitari dello scorso secolo, la comunicazione visiva è stata elemento cardine per ottenere il consenso del popolo. Oggi, per fortuna, la comunicazione grafica viene utilizzata per scopi ben più nobili di quelli utilizzati in passato unendo eleganza ed efficacia comunicativa.
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+
+#####  
+
+# **QUALI SONO QUESTI OBIETTIVI?**
+
+Di obiettivi ce ne sono a bizzeffe e vanno identificati congiuntamente alla individuazione della strategia di business. Uno degli obiettivi più comuni è quello del consolidamento della “Brand Identity” (identità aziendale); ogni azienda deve creare una propria identità, questo è fondamentale per far si che i clienti riescano ad identificarci tra migliaia di competitor. Se non ci identificano, saremo “uno dei tanti”. Per comprendere di cosa sto parlando, provate a pensare a cosa vi viene in mente se vi dico: Google, Apple, Amazon. Sapete esattamente chi sono e cosa comunicano. Vero?Di obiettivi ce ne sono a bizzeffe e vanno identificati congiuntamente alla individuazione della strategia di business. Uno degli obiettivi più comuni è quello del consolidamento della “Brand Identity” (identità aziendale); ogni azienda deve creare una propria identità, questo è fondamentale per far si che i clienti riescano ad identificarci tra migliaia di competitor. Se non ci identificano, saremo “uno dei tanti”. Per comprendere di cosa sto parlando, provate a pensare a cosa vi viene in mente se vi dico: Google, Apple, Amazon. Sapete esattamente chi sono e cosa comunicano. Vero?
+
+##### ![](https://preview--curious-oregano-a60dd.stackbit.dev/images/how-to-choose-a-brand-name-thats-perfectly-you-5-700x350.jpg)
+
+# **PERCHÉ LA GRAFICA OGGI È PIÙ IMPORTANTE CHE MAI**
+
+I più grandicelli di voi avranno notato come col passare degli anni, il tempo sia diventato un bene di lusso. Oggi si corre molto più di ieri, i ritmi sono aumentati e stanno diventando insostenibili. Tutto questo ha portato a dei disarmanti cali del livello di attenzione. La tecnologia ha contribuito non poco all’avanzamento di questo fenomeno e noi non possiamo fare altro che adeguarci. Pensate solo a quanto effimera sia l’attenzione nei confronti dei post visualizzati sui feed di Instagram e Facebook o di quanto fugace sia uno sguardo dato da un automobilista ad un negozio o un cartello. Viene spontaneo comprendere quanto sia importante l’efficacia comunicativa di una grafica per catturare l’attenzione di un cliente.
+
+# **IN COSA CONSISTE IL SERVIZIO:**
+
+Shooting fotografico per campagne marketing e prodotti
+
+Creazione e studio di video creative per social e sito web
+
+Creazione logo
+
+Scelta font e colori adatti per foto, video e sito web
