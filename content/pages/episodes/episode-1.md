@@ -1,5 +1,5 @@
 ---
-subtitle: Progetto in pre
+subtitle: 'Progetto in preparazione, non ancora disponibile'
 date: '2020-07-15'
 categories:
   - content/data/categories/season-1.yaml
