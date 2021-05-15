@@ -43,9 +43,28 @@ seo:
       relativeUrl: true
 layout: post
 ---
+# **Perché è fondamentale fare branding per le imprese?**&#xA;&#xA;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
+##### Il branding è una parte fondamentale per la stragrande maggioranza delle imprese, poiché ha effetti diretti su:
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
+##### Consumatori. Come discusso in precedenza, un brand fornisce ai consumatori una sorta di scorciatoia per prendere decisioni quando si sentono indecisi sullo stesso prodotto di aziende diverse.
 
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+##### Dipendenti / stakeholder / terzi: oltre ad aiutare i consumatori a distinguere prodotti simili, le strategie di successo di branding si aggiungono alla reputazione di un'azienda. Questo asset può influenzare una serie di persone, dai consumatori ai dipendenti, agli investitori, agli azionisti, ai fornitori e ai distributori. Ad esempio, se non ti piace o non ti senti legato a un brand, probabilmente non vorresti lavorare per esso. Tuttavia, se senti che quel brand ti capisce e offre prodotti che ti ispirano, probabilmente vorresti lavorare per esso ed essere parte del suo mondo.
+
+****
+
+# **In cosa consiste in poche parole il servizio**
+
+##### Dichiarazione di posizionamento, o brand positioning. Il Brand Positioning può essere definito come la strategia di posizionamento del brand con l'obiettivo di creare un'impressione unica nella mente dei clienti e sul...
+
+##### Brand Identity: nome, tone of voice, design dell'identità visiva
+
+##### Pubblicità e comunicazione: digital marketing. Il Digital Marketing è la componente del marketing che utilizza internet e le tecnologie digitali online per analizzare il mercato, elaborare strategie e porle in...
+
+##### Sponsorizzazioni e partnership
+
+##### Esperienza di lavoro e stile di gestione
+
+##### Servizio clienti
+
+##### Strategia dei prezzi
