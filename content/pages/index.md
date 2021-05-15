@@ -44,7 +44,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: grid_section
-    title: Partners
+    title: IL TEAM
     align: center
     grid_items:
       - image: images/logo-1.svg
