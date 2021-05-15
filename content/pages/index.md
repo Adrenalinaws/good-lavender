@@ -121,8 +121,7 @@ sections:
     background_image_opacity: 98
   - actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           ## Alessandro Mallia
 
