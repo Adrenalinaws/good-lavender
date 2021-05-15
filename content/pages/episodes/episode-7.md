@@ -4,7 +4,7 @@ date: '2020-11-15'
 categories: []
 thumb_image: images/fotonerd-frasi-che-fanno-arrabbiare-i-fotografi-1.jpg
 thumb_image_alt: Episode 7 placeholder image
-image: images/post-7.jpg
+image: images/fotonerd-frasi-che-fanno-arrabbiare-i-fotografi-1.jpg
 image_alt: Episode 7 placeholder image
 image_position: left
 seo:
