@@ -1,8 +1,5 @@
 ---
 title: BRANDING
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
 date: '2020-12-28'
 categories:
   - content/data/categories/season-1.yaml
