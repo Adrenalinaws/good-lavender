@@ -29,7 +29,7 @@
             },
             {
                 "label": "Home",
-                "url": "home",
+                "url": "/home",
                 "style": "link",
                 "has_icon": false,
                 "icon": "apple-podcasts",
