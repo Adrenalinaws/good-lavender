@@ -153,7 +153,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Untitled design (5).png
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: large
     grid_gap_horiz: large
     enable_cards: false
