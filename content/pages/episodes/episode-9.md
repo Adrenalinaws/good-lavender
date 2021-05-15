@@ -1,8 +1,5 @@
 ---
 title: CREAZIONE SITO WEB
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
 date: '2021-01-04'
 categories: []
 thumb_image: images/thoughtful-kangaroo.jpeg
