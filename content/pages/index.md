@@ -7,7 +7,7 @@ sections:
       Passa dalla realtà fisica a quella online con Adrenalina
     actions:
       - label: SCOPRI
-        url: /thank-you
+        url: /episodes
         style: secondary
     image: images/backgroung_homepage.jpeg
     image_alt: Hero section placeholder image
