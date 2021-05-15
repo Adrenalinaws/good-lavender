@@ -6,7 +6,7 @@ subtitle: >-
 date: '2020-10-12'
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: images/post-5.jpg
+thumb_image: images/social_marketing-731x494.jpg
 thumb_image_alt: Episode 5 placeholder image
 image: images/post-5.jpg
 image_alt: Episode 5 placeholder image
