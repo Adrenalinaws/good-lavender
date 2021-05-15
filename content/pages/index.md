@@ -124,7 +124,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
     background_color: none
-    subtitle: 'Siamo sostenuti da fantastiche '
+    subtitle: 'Siamo sostenuti da fantastiche aziende '
   - type: form_section
     content: >
       ## CONTATTACI
