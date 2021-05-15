@@ -181,7 +181,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    background_image: images/pattern.svg
+    background_image: images/backgroung_homepage.jpeg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
