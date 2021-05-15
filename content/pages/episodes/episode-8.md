@@ -5,7 +5,7 @@ categories:
   - content/data/categories/season-1.yaml
 thumb_image: images/brand-marketing.jpeg
 thumb_image_alt: Episode 8 placeholder image
-image: images/post-8.jpg
+image: images/brand-marketing.jpeg
 image_alt: Episode 8 placeholder image
 image_position: right
 seo:
