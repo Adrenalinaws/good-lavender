@@ -43,9 +43,28 @@ seo:
       relativeUrl: true
 layout: post
 ---
+**Vendi i tuoi servizi online**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
 
-Pythagoras et aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+Offri servizi online e vuoi farli prenotare online sul tuo sito? Con il nuovo componente Servizi di Flazio puoi farlo con facilità! Potrai infatti configurare e rendere disponibili online diverse tipologie di servizi: i tuoi clienti potranno prenotare un corso, fissare un appuntamento con te o con un professionista del tuo staff, noleggiare qualsiasi tipo di prodotto oppure acquistare pacchetti. Qualsiasi sia il servizio che offri, i tuoi clienti potranno selezionare la data del servizio e pagarlo direttamente online.
+
+
+
+## **​Qualsiasi carta**
+
+I tuoi visitatori potranno pagare utilizzando comodamente la loro carta di credito, carta Bancomat o prepagata.
+
+## **Pagamenti sicuri**
+
+Con il tuo sito web avrai la possibilità di fornire un pagamento online sicuro con sistemi di pagamento come Pay Pal
+
+## **Vendi direttamente dai Social**
+
+Integreremo il tuo e-commerce direttamente su Facebook e Instagram cosi che tu possa avere i tanti ambiti shop sui social
+
+## **Applicazione Mobile**
+
+Il tuo Ecommerce non è mai stato tanto flessibile.
+
+Potrai tracciare e ricevere gli ordini in qualsiasi momento dal tuo smartphone e dal tuo Tablet.
