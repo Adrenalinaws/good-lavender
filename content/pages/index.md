@@ -136,7 +136,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Untitled design (3).png
+        image: images/Untitled design (4).png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
