@@ -143,11 +143,12 @@ sections:
     has_border: true
     background_color: none
   - type: form_section
-    content: >-
-      ## Ask A Question
+    content: >
+      ## CONTATTACI
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+
+      Hai qualche domanda sui servizi di adrenalina o vuoi semplicemente saperne
+      di più? Scrivici nella form box
     content_align: left
     form_position: right
     form_width: fifty
