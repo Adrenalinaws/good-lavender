@@ -4,8 +4,7 @@ subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
 date: '2021-01-04'
-categories:
-  - content/data/categories/season-2.yaml
+categories: []
 thumb_image: images/thoughtful-kangaroo.jpeg
 thumb_image_alt: Episode 9 placeholder image
 image: images/backgroung_homepage.jpeg
