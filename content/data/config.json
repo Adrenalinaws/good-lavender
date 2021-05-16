@@ -44,7 +44,7 @@
             {
                 "label": "CONTATTI",
                 "url": "/subscribe",
-                "style": "primary"
+                "style": "secondary"
             }
         ],
         "has_anncmnt": false,
