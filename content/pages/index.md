@@ -90,7 +90,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: I FOUNDERS
+    title: FOUNDERS
   - type: form_section
     content: >
       ## CONTATTACI
