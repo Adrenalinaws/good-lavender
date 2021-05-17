@@ -42,6 +42,16 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: apple-podcasts
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - actions: []
     grid_items:
       - title_align: left
