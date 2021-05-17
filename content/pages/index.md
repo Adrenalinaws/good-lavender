@@ -51,7 +51,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: /
+        url: /episodes
   - actions: []
     grid_items:
       - title_align: left
