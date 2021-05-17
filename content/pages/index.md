@@ -43,7 +43,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
     actions:
-      - label: vedi tuutti
+      - label: vedi tutti
         url: lorem-ipsum
         style: link
         has_icon: false
