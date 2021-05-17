@@ -44,7 +44,6 @@ sections:
     background_image_opacity: 98
     actions:
       - label: VEDI TUTTI
-        url: lorem-ipsum
         style: link
         has_icon: false
         icon: apple-podcasts
