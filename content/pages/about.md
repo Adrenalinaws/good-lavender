@@ -36,6 +36,8 @@ I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore
 
 I due fondatori Alessandro Mallia e Anas bennar
 
- ![](/images/Untitled%20design%20\(2\).png)![](/images/Untitled%20design%20\(5\).png)
+![](/images/Untitled%20design%20\(3\).png)
+
+![](/images/Untitled%20design%20\(5\).png)
 
  
