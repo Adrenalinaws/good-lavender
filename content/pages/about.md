@@ -34,10 +34,8 @@ Adrenalina Web Services nacque come idea tra i banchi universitari dell'universi
 
 I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo passo in ogni cosa tu voglia fare. Adrenalina non è semplicemente un' azienda di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online. 
 
-I due fondatori Alessandro Mallia e Anas bennar
 
-![](/images/Untitled%20design%20\(4\).png)
 
-![](/images/Untitled%20design%20\(5\).png)
+
 
  
