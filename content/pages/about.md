@@ -28,8 +28,18 @@ seo:
       relativeUrl: true
 layout: page
 ---
+
+
 ![](/images/183202262\_104418545156456\_3199161699429523615\_n.jpg)
 
-###### Adrenalina Web Services nacque come idea tra i banchi universitari dell'università di Parma. Due studenti squattrinati, in ritardo con gli esami, sempre di fretta, stavano ragionando sul modo per aiutare la gente ad andare online e su come far spiegare al mondo in modo semplice l'importanza di internet in tutte le sue sfaccettature. Dopo anni di studi sul mercato e ricerca di personale alla fine l'idea di Adrenalina iniziò a prendere forma. Ad oggi il team è diventato una vera e propria famiglia e il rapporto con ogni singolo cliente cresce di giorno in giorno. Noi amiamo chiamare questi rapporti l'amore che abbiamo creato.
+Adrenalina Web Services nacque come idea tra i banchi universitari dell'università di Parma. Due studenti squattrinati, in ritardo con gli esami, sempre di fretta, stavano ragionando sul modo per aiutare la gente ad andare online e su come far spiegare al mondo in modo semplice l'importanza di internet in tutte le sue sfaccettature. Dopo anni di studi sul mercato e ricerca di personale alla fine l'idea di Adrenalina iniziò a prendere forma. Ad oggi il team è diventato una vera e propria famiglia e il rapporto con ogni singolo cliente cresce di giorno in giorno. Noi amiamo chiamare questi rapporti l'amore che abbiamo creato. 
 
-###### I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo passo in ogni cosa tu voglia fare. Adrenalina non è semplicemente un' azienda di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online.&#xA;&#xA;&#xA;
+I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo passo in ogni cosa tu voglia fare. Adrenalina non è semplicemente un' azienda di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online. 
+
+ 
+
+
+
+
+
+
