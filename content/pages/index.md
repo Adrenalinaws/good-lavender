@@ -128,7 +128,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: Question
+        label: Domanda
       - input_type: checkbox
         name: consent
         label: >-
