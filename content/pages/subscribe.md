@@ -45,7 +45,7 @@ sections:
         label: Email
       - input_type: textarea
         name: Domanda
-        label: DOMANDA
+        label: Domanda
         options: []
         is_required: false
         type: form_field
