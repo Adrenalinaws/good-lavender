@@ -36,7 +36,7 @@ sections:
         is_required: false
         type: form_field
         label: NOME
-      - input_type: text
+      - input_type: email
         default_value: lorem-ipsum
         options: []
         is_required: false
