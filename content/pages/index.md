@@ -119,7 +119,6 @@ sections:
       - input_type: text
         name: name
         label: Name
-        default_value: NOME
         is_required: true
       - input_type: email
         name: email
