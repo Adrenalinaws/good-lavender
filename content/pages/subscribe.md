@@ -44,7 +44,7 @@ sections:
         name: La tua mail
         label: Email
       - input_type: textarea
-        name: DOMANDA
+        name: Domanda
         label: DOMANDA
         options: []
         is_required: false
