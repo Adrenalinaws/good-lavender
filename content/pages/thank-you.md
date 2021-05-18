@@ -2,7 +2,7 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Thank You!
+    title: GRAZIE!
     subtitle: Thank you for testing this theme!
     actions:
       - label: Back to homepage
