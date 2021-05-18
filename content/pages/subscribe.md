@@ -45,7 +45,7 @@ sections:
         label: Email
       - input_type: textarea
         name: DOMANDA
-        label: lorem-ipsum
+        label: DOMANDA
         default_value: lorem-ipsum
         options: []
         is_required: false
