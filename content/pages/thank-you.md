@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: GRAZIE!
-    subtitle: Thank you for testing this theme!
+    subtitle: Grazie per averci contattato ti risponderemo al più presto
     actions:
       - label: Back to homepage
         url: /
