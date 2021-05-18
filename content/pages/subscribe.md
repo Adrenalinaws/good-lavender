@@ -1,14 +1,6 @@
 ---
 title: Subscribe
 sections:
-  - type: hero_section
-    title: Subscribe
-    subtitle: Pick your favorite podcast platform
-    align: center
-    padding_top: large
-    padding_bottom: none
-    background_color: none
-    has_border: false
   - title_align: left
     content: >
       # CONTATTACI&#xA;
