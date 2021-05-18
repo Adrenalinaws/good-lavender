@@ -44,7 +44,7 @@ sections:
         name: La tua mail
         label: Email
       - input_type: textarea
-        name: lorem-ipsum
+        name: DOMANDA
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
