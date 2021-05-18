@@ -46,7 +46,6 @@ sections:
       - input_type: textarea
         name: DOMANDA
         label: DOMANDA
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
