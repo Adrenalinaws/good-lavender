@@ -120,6 +120,7 @@ sections:
         name: name
         label: Name
         is_required: true
+        default_value: Il tuo nome
       - input_type: email
         name: email
         label: Email
