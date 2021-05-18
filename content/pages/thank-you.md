@@ -5,7 +5,7 @@ sections:
     title: GRAZIE!
     subtitle: Grazie per averci contattato ti risponderemo al più presto
     actions:
-      - label: Back to homepage
+      - label: Torna alla home page
         url: /
         style: primary
     align: center
