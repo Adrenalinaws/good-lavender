@@ -35,7 +35,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        label: NOME
+        label: Nome
       - input_type: email
         default_value: La tua email
         options: []
