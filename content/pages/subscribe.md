@@ -42,6 +42,7 @@ sections:
         is_required: false
         type: form_field
         name: La tua mail
+        label: La tua mail
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
