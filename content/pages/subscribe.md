@@ -10,17 +10,12 @@ sections:
     background_color: none
     has_border: false
   - title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      # CONTATTACI&#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Hai qualche domanda sui servizi di Adrenalina o vuoi semplicemente saperne
+      di più? Scrivici nella form box
     content_align: left
     form_position: right
     form_width: fifty
