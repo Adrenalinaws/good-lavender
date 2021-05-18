@@ -9,8 +9,7 @@ sections:
     padding_bottom: none
     background_color: none
     has_border: false
-  - subtitle: lorem-ipsum
-    title_align: left
+  - title_align: left
     content: >-
       ## Lorem ipsum
 
