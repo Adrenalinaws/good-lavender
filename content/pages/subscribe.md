@@ -31,7 +31,7 @@ sections:
     form_fields:
       - input_type: text
         name: Il tuo nome
-        default_value: lorem-ipsum
+        default_value: Il tuo nome
         options: []
         is_required: false
         type: form_field
