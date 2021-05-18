@@ -43,7 +43,7 @@ sections:
         type: form_field
         name: La tua mail
         label: Email
-      - input_type: text
+      - input_type: textarea
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
