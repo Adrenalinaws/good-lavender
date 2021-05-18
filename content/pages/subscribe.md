@@ -35,6 +35,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        label: il
       - input_type: text
         default_value: lorem-ipsum
         options: []
