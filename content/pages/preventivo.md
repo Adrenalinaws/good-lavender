@@ -14,7 +14,6 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
-    submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
     padding_bottom: medium
