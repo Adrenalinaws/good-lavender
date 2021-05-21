@@ -179,7 +179,8 @@ sections:
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
   - title_align: center
-    content: "## Preventiva il tuo sito web a partire da\_€299,00\n"
+    content: |
+      ##
     content_align: left
     form_position: bottom
     form_width: fifty
