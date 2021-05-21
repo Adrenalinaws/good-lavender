@@ -188,7 +188,7 @@ sections:
     form_action: lorem-ipsum
     form_fields: []
     submit_label: VAI AL PREVENTIVO AUTOMATICO
-    align_vert: top
+    align_vert: middle
     padding_top: medium
     padding_bottom: medium
     has_border: true
