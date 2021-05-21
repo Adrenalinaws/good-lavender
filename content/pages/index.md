@@ -199,7 +199,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    title: p
 seo:
   title: Stackbit Podcaster Theme
   description: The preview of the Podcaster theme
