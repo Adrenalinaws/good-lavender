@@ -179,8 +179,6 @@ sections:
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
   - title_align: center
-    content: |
-      ##
     content_align: left
     form_position: bottom
     form_width: fifty
