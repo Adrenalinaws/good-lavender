@@ -1,8 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: Preventiva il tuo sito online
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     title_align: left
     content: |
       # Preventiva il tuo sito online 
