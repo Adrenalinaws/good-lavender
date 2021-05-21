@@ -199,7 +199,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    title: 'Preventiva il tuo sito web a partire da '
+    title: >-
+      Preventiva il tuo sito web a partire da Preventiva il tuo sito web a
+      partire da €299,00
 seo:
   title: Stackbit Podcaster Theme
   description: The preview of the Podcaster theme
