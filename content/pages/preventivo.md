@@ -4,17 +4,10 @@ sections:
   - title: Preventiva il tuo sito online
     subtitle: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: |
+      # Preventiva il tuo sito online 
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      a partire da €299,99
     content_align: left
     form_position: bottom
     form_width: fifty
