@@ -179,17 +179,7 @@ sections:
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
   - title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "## Preventiva il tuo sito web a partire da\_€299,00\n"
     content_align: left
     form_position: bottom
     form_width: fifty
