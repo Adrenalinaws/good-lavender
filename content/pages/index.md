@@ -178,7 +178,7 @@ sections:
     has_border: true
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
-  - title: 'Preventiva automaticamente '
+  - title: 'Preventiva '
     subtitle: lorem-ipsum
     title_align: left
     content: >-
