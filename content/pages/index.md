@@ -214,16 +214,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: apple-podcasts
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
