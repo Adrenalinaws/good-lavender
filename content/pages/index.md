@@ -181,7 +181,7 @@ sections:
   - title_align: center
     content_align: left
     form_position: bottom
-    form_width: fifty
+    form_width: fourty
     form_layout: stacked
     enable_card: false
     form_id: lorem-ipsum
