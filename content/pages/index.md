@@ -29,7 +29,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_action: PRE
     form_fields: []
     submit_label: VAI AL PREVENTIVO AUTOMATICO
     align_vert: middle
