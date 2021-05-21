@@ -178,8 +178,7 @@ sections:
     has_border: true
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
-  - subtitle: "preventiva il tuo sito web a partire da\_€299,00"
-    title_align: left
+  - title_align: left
     content: >-
       ## Lorem ipsum
 
