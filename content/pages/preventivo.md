@@ -16,7 +16,7 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Tipo di sito
         default_value: lorem-ipsum
         options:
           - lorem-ipsum
