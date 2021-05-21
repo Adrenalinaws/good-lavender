@@ -178,7 +178,7 @@ sections:
     has_border: true
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
-  - subtitle: 'preventiva il tuo sito web '
+  - subtitle: 'preventiva il tuo sito web a partire da '
     title_align: left
     content: >-
       ## Lorem ipsum
