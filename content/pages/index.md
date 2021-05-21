@@ -22,6 +22,30 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
+  - title_align: center
+    content_align: center
+    form_position: bottom
+    form_width: fourty
+    form_layout: inline
+    enable_card: false
+    form_id: lorem-ipsum
+    form_action: lorem-ipsum
+    form_fields: []
+    submit_label: VAI AL PREVENTIVO AUTOMATICO
+    align_vert: middle
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
+    title: 'Preventiva il tuo sito web a partire da €299,00'
+    content: |+
+
+
   - type: blog_feed_section
     title: I NOSTRI SERVIZI
     blog_feed_cols: three
@@ -52,30 +76,6 @@ sections:
         no_follow: false
         type: action
         url: /episodes
-  - title_align: center
-    content_align: center
-    form_position: bottom
-    form_width: fourty
-    form_layout: inline
-    enable_card: false
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: VAI AL PREVENTIVO AUTOMATICO
-    align_vert: middle
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-    title: 'Preventiva il tuo sito web a partire da €299,00'
-    content: |+
-
-
   - actions: []
     grid_items:
       - title_align: left
