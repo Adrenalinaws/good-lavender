@@ -180,7 +180,7 @@ sections:
     subtitle: 'Siamo sostenuti da fantastiche aziende '
   - title_align: center
     content_align: center
-    form_position: bottom
+    form_position: top
     form_width: fourty
     form_layout: stacked
     enable_card: true
