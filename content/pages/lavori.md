@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: Natalie Zinelli Collection
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
