@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'kn '
 sections:
   - title: Natalie Zinelli Collection
     content: |
