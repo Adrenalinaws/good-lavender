@@ -28,7 +28,7 @@ sections:
     form_width: fourty
     form_layout: inline
     enable_card: false
-    form_id: lorem-ipsum
+    form_id: lorem-ipsum....
     form_fields: []
     submit_label: VAI AL PREVENTIVO AUTOMATICO
     align_vert: middle
