@@ -31,7 +31,7 @@ sections:
     form_fields: []
     submit_label: VAI AL PREVENTIVO AUTOMATICO
     align_vert: bottom
-    padding_top: small
+    padding_top: medium
     padding_bottom: medium
     has_border: true
     background_color: none
