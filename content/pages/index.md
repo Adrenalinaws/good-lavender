@@ -24,7 +24,7 @@ sections:
     has_border: true
   - title: 'Preventiva il tuo sito a partire da €299,00 '
     actions:
-      - url: lorem-ipsum
+      - url: /
         style: primary
         has_icon: false
         icon: apple-podcasts
