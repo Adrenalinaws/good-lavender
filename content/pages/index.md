@@ -204,8 +204,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
+      - url: lorem-ipsum
         style: primary
         has_icon: false
         icon: apple-podcasts
