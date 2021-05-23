@@ -201,7 +201,7 @@ sections:
     has_border: true
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
-  - title: Preventiva il tuo sito a partire da 2
+  - title: 'Preventiva il tuo sito a partire da 299,00 '
     subtitle: lorem-ipsum
     actions:
       - url: lorem-ipsum
