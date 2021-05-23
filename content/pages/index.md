@@ -26,7 +26,7 @@ sections:
     content_align: center
     form_position: bottom
     form_width: fourty
-    form_layout: inline
+    form_layout: stacked
     enable_card: false
     form_id: lorem-ipsum
     form_fields: []
