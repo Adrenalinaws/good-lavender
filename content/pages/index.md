@@ -201,7 +201,7 @@ sections:
     has_border: true
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
-  - title: lorem-ipsum
+  - title: PREVENTIVA
     subtitle: lorem-ipsum
     actions:
       - url: lorem-ipsum
