@@ -69,7 +69,7 @@ sections:
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     type: grid_section
     background_image: images/Copy of Untitled Design.png
   - type: blog_feed_section
