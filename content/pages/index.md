@@ -22,7 +22,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
-  - title: 'Preventiva il tuo sito a partire da €299990 '
+  - title: 'Preventiva il tuo sito a partire da €299,990 '
     actions:
       - url: /1
         style: primary
