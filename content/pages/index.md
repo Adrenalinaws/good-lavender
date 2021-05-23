@@ -27,7 +27,7 @@ sections:
       - url: /
         style: primary
         has_icon: false
-        icon: apple-podcasts
+        icon: facebook
         icon_position: right
         new_window: true
         no_follow: false
