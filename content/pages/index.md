@@ -45,6 +45,7 @@ sections:
     content: |+
 
 
+    subtitle: '46546'
   - type: blog_feed_section
     title: I NOSTRI SERVIZI
     blog_feed_cols: three
