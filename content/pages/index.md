@@ -22,29 +22,6 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
-  - title_align: center
-    content_align: center
-    form_position: bottom
-    form_width: fourty
-    form_layout: inline
-    enable_card: false
-    form_fields: []
-    submit_label: VAI AL PREVENTIVO AUTOMATICO
-    align_vert: bottom
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-    title: 'Preventiva il tuo sito web a partire da €299,00'
-    content: |+
-
-
-    form_id: lorem-ipsum
   - title: 'Preventiva il tuo sito a partire da €299,00 '
     actions:
       - url: lorem-ipsum
