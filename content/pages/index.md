@@ -212,6 +212,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: VAI AL PREVENTIVO AUTOMATICO
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
