@@ -211,7 +211,7 @@ sections:
         icon: apple-podcasts
         icon_position: right
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
     grid_items: []
     grid_cols: three
