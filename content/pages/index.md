@@ -44,6 +44,7 @@ sections:
     content: |+
 
 
+    form_id: lorem-ipsum
   - type: blog_feed_section
     title: I NOSTRI SERVIZI
     blog_feed_cols: three
