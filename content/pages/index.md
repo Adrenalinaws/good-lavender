@@ -210,7 +210,7 @@ sections:
         has_icon: false
         icon: apple-podcasts
         icon_position: right
-        new_window: true
+        new_window: false
         no_follow: false
         type: action
     grid_items: []
