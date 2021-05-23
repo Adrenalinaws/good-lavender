@@ -30,7 +30,7 @@ sections:
     enable_card: false
     form_fields: []
     submit_label: VAI AL PREVENTIVO AUTOMATICO
-    align_vert: middle
+    align_vert: bottom
     padding_top: medium
     padding_bottom: medium
     has_border: true
