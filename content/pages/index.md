@@ -71,6 +71,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    background_image: images/Copy of Untitled Design.png
   - type: blog_feed_section
     title: I NOSTRI SERVIZI
     blog_feed_cols: three
