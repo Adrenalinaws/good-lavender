@@ -28,7 +28,14 @@ sections:
     form_width: fourty
     form_layout: inline
     enable_card: false
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: VAI AL PREVENTIVO AUTOMATICO
     align_vert: middle
     padding_top: medium
