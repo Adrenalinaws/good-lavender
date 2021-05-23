@@ -24,7 +24,7 @@ sections:
     has_border: true
   - title_align: center
     content_align: center
-    form_position: right
+    form_position: bottom
     form_width: fourty
     form_layout: inline
     enable_card: false
