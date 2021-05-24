@@ -123,8 +123,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Powered by Adrenalina Web Services",
-        "logo": "images/ADRENALINA (11).png"
+        "content": "&copy; Powered by Adrenalina Web Services"
     },
     "domain": "https://good-lavender-fa460.netlify.app"
 }
