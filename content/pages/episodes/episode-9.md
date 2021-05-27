@@ -5,7 +5,7 @@ categories: []
 thumb_image: images/thoughtful-kangaroo.jpeg
 image: images/backgroung_homepage.jpeg
 image_alt: Episode 9 placeholder image
-image_position: left
+image_position: top
 seo:
   title: Episode 9 - Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
