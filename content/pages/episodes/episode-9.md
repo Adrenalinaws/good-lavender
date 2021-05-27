@@ -3,7 +3,6 @@ title: CREAZIONE SITO WEB
 date: '2021-01-04'
 categories: []
 thumb_image: images/thoughtful-kangaroo.jpeg
-thumb_image_alt: Episode 9 placeholder image
 image: images/backgroung_homepage.jpeg
 image_alt: Episode 9 placeholder image
 image_position: left
