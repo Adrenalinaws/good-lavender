@@ -1,8 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: 'LA STORIA DI ADRENALINA '
-    actions: []
+  - actions: []
     image_alt: ‏‏‎ ‎
     media_position: top
     media_width: sixty
