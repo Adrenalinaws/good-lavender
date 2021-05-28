@@ -20,7 +20,7 @@ sections:
     media_width: sixty
     align: left
     padding_top: none
-    padding_bottom: large
+    padding_bottom: none
     has_border: false
     background_color: none
     background_image_opacity: 0
