@@ -49,8 +49,8 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/BaMFFPNGapk?controls=0" title="YouTube
+      <iframe width="1920" height="1800"
+      src="https://www.youtube-nocookie.com/embed/BaMFFPNGapk" title="YouTube
       video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen></iframe>
