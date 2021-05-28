@@ -56,9 +56,6 @@ sections:
   - content: "I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo\_passo\_in ogni cosa tu voglia fare. Adrenalina non è semplicemente\_un' azienda\_di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online.\_\n\n"
     actions: []
     image_alt: lorem-ipsum
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
     media_position: top
     media_width: fifty
     align: left
