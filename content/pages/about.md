@@ -1,6 +1,36 @@
 ---
 title: lorem-ipsum
 sections:
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - content: "# La storia di Adrenalina&#xA;&#xA;\n\nAdrenalina Web Services nacque come idea tra i banchi universitari dell'università di Parma. Due studenti squattrinati, in ritardo con gli esami, sempre di fretta, stavano ragionando sul modo per aiutare la gente ad andare online e su come far spiegare al mondo in modo semplice l'importanza di internet in tutte le sue sfaccettature. Dopo anni di studi sul mercato e ricerca di personale alla fine l'idea di Adrenalina iniziò a prendere forma. Ad oggi il team è diventato una vera e propria famiglia e il rapporto con ogni singolo cliente cresce di giorno in giorno. Noi amiamo chiamare questi rapporti l'amore che abbiamo creato.\_\n"
     actions: []
     actions_position: bottom
@@ -34,36 +64,6 @@ sections:
       src="https://www.youtube.com/embed/BaMFFPNGapk" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
 seo:
   title: ''
   description: ''
