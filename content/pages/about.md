@@ -53,17 +53,7 @@ sections:
       src="https://www.youtube.com/embed/BaMFFPNGapk" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: "I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo\_passo\_in ogni cosa tu voglia fare. Adrenalina non è semplicemente\_un' azienda\_di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online.\_\n\n"
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
