@@ -6,7 +6,7 @@ sections:
     image_alt: ‏‏‎ ‎
     media_position: top
     media_width: sixty
-    align: left
+    align: center
     padding_top: large
     padding_bottom: large
     has_border: false
