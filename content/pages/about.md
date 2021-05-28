@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - title: LA STORIA DI ADRENALINA
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: ‏‏‎ ‎
     media_position: top
     media_width: fifty
     align: left
