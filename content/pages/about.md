@@ -5,7 +5,7 @@ sections:
     actions: []
     image_alt: ‏‏‎ ‎
     media_position: top
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: medium
     padding_bottom: medium
