@@ -50,9 +50,10 @@ sections:
     type: hero_section
     video_embed_html: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/BaMFFPNGapk" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      src="https://www.youtube.com/embed/BaMFFPNGapk?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
   - content: "I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo\_passo\_in ogni cosa tu voglia fare. Adrenalina non è semplicemente\_un' azienda\_di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online.\_\n\n"
     actions: []
     image_alt: lorem-ipsum
