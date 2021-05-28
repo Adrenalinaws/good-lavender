@@ -28,6 +28,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    video_embed_html: 'https://youtu.be/BaMFFPNGapk'
 seo:
   title: ''
   description: ''
