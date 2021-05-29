@@ -20,7 +20,7 @@ sections:
       ‏‏‎ ‎
     title: ‏‏‎ ‎
     background_image: images/Copy of Untitled Design (1).png
-  - content: "Adrenalina Web Services nacque come idea tra i banchi universitari dell'università di Parma. Due studenti squattrinati, in ritardo con gli esami, sempre di fretta, stavano ragionando sul modo per aiutare la gente ad andare online e su come far spiegare al mondo in modo semplice l'importanza di internet in tutte le sue sfaccettature. Dopo anni di studi sul mercato e ricerca di personale alla fine l'idea di Adrenalina iniziò a prendere forma. Ad oggi il team è diventato una vera e propria famiglia e il rapporto con ogni singolo cliente cresce di giorno in giorno. Noi amiamo chiamare questi rapporti l'amore che abbiamo creato.\_\n"
+  - content: "Adrenalina Web Services nacque come idea tra i banchi universitari dell'università di Parma. Due studenti squattrinati, in ritardo con gli esami, sempre di fretta, stavano ragionando sul modo per aiutare la gente ad andare online e su come spiegare al mondo, in modo semplice, l'importanza di internet in tutte le sue sfaccettature. Dopo anni di studi del mercato e ricerca di personale alla fine l'idea di Adrenalina iniziò a prendere forma. Ad oggi il team è diventato una vera e propria famiglia e il rapporto con ogni singolo cliente cresce di giorno in giorno. Noi amiamo chiamare questi rapporti l'amore che abbiamo creato.\_\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: top
