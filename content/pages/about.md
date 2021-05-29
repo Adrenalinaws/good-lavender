@@ -101,17 +101,14 @@ sections:
           La fiducia rappresenta le fondamenta di ogni relazione, che si parli
           di clienti o colleghi
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          ## Fiducia
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Il nostro ingrediente segreto? La fiducia che sappiamo trasmettere a
+          colleghi e clienti. In questo modo abbiamo costruito una realtà
+          solida.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
