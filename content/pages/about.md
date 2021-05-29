@@ -78,17 +78,14 @@ sections:
       - title: 01.
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          # Ottimismo 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Un grande ottimismo ci ha sempre guidato verso un mondo pieno di
+          opportunità. Affrontiamo tutte le sfide con consapevolezza e
+          positività
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
