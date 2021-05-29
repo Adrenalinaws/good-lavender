@@ -140,17 +140,13 @@ sections:
       - title: 04.
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          ## Cambiamento
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Abbracciamo il cambiamento come occasione per vincere nuove sfide e
+          opportunità per crescere insieme.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
