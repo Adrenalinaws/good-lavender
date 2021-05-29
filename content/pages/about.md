@@ -69,7 +69,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - subtitle: lorem-ipsum
+  - subtitle: >-
+      La nostra cultura e la filosofia del Never Sleep si fondano su 5 valori
+      che condividiamo con il team fin dai primi giorni in Caffeina, affinché
+      possano guidare le scelte e le decisioni che prendiamo quotidianamente.
     actions: []
     grid_items:
       - title: lorem-ipsum
