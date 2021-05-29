@@ -120,17 +120,13 @@ sections:
       - title: 03.
         subtitle: Costanza è sinonimo di successo
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          # Costanza
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Il nostro modo di fare le cose non è approcciandoci ai lavori con
+          fretta o impazienza, ma bensì giorno per giorno costantemente facendo
+          il nostro lavoro.
         content_align: left
         actions: []
         actions_align: left
