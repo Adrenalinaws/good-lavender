@@ -118,7 +118,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: 03.
-        subtitle: lorem-ipsum
+        subtitle: Costanza è sinonimo di successo
         title_align: left
         content: >-
           ## Lorem ipsum
