@@ -15,7 +15,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: images/adrenalina's history (1).png
+    background_image: images/adrenalina's history (2).png
     subtitle: ‏‏‎ ‎
     content: |
       ‏‏‎ ‎
