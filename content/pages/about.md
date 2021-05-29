@@ -97,9 +97,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: 02.
-        subtitle: >-
-          La fiducia rappresenta le fondamenta di ogni relazione, che si parli
-          di clienti o colleghi
+        subtitle: 'Fidandoci, è così che andiamo avanti'
         title_align: left
         content: >+
           ## Fiducia
