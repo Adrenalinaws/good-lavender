@@ -160,13 +160,12 @@ sections:
       - title: 05.
         subtitle: lorem-ipsum
         title_align: left
-        content: >+
-          ## Lorem ipsum
+        content: >
+          ## Impatto
 
 
           Sin dall’inizio, la possibilità di avere un impatto reale, aiutando le
           persone, è stato il motivo per cui abbiamo creato Adrenalina.
-
         content_align: left
         actions: []
         actions_align: left
