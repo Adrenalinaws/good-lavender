@@ -160,17 +160,13 @@ sections:
       - title: 05.
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
+        content: >+
           ## Lorem ipsum
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Sin dall’inizio, la possibilità di avere un impatto reale, aiutando le
+          persone, è stato il motivo per cui abbiamo creato Adrenalina.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
