@@ -51,7 +51,7 @@ sections:
           *Un grande ottimismo ci ha sempre guidato verso un mondo pieno di
           opportunità. Affrontiamo tutte le sfide con consapevolezza e
           positività*
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
