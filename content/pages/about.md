@@ -97,7 +97,9 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: 02.
-        subtitle: lorem-ipsum
+        subtitle: >-
+          La fiducia rappresenta le fondamenta di ogni relazione, che si parli
+          di clienti o colleghi
         title_align: left
         content: >-
           ## Lorem ipsum
