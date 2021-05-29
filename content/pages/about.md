@@ -85,7 +85,7 @@ sections:
         subtitle: Costanza è sinonimo di successo
         title_align: left
         content: >
-          # Costanza
+          ### Costanza
 
 
           Il nostro modo di fare le cose non è approcciandoci ai lavori con
