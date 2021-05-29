@@ -104,13 +104,12 @@ sections:
       - title: 04.
         subtitle: Ogni cambiamento porta nuove idee
         title_align: left
-        content: >+
-          ## Cambiamento
+        content: >
+          ### Cambiamento
 
 
           Abbracciamo il cambiamento come occasione per vincere nuove sfide e
           opportunità per crescere insieme.
-
         content_align: left
         actions: []
         actions_align: left
