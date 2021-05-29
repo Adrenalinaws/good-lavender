@@ -123,11 +123,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - subtitle: >-
-      La nostra cultura e la filosofia si fondano su 5 valori che condividiamo
-      con il team fin dai primi giorni in Adrenalina, affinché possano guidare
-      le scelte e le decisioni che prendiamo quotidianamente.
-    actions: []
+  - actions: []
     grid_items:
       - title: 01.
         subtitle: L'ottimismo è alla base dei nostri valori
