@@ -96,7 +96,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Copy of Copy of Copy of Copy of Copy of Untitled.png
+        image: images/Copy of Copy of Copy of Copy of Copy of Untitled (1).png
       - title_align: left
         content_align: left
         actions: []
