@@ -36,9 +36,9 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - subtitle: >-
-      La nostra cultura e la filosofia del Never Sleep si fondano su 5 valori
-      che condividiamo con il team fin dai primi giorni in Caffeina, affinché
-      possano guidare le scelte e le decisioni che prendiamo quotidianamente.
+      La nostra cultura e la filosofia si fondano su 5 valori che condividiamo
+      con il team fin dai primi giorni in Adrenalina, affinché possano guidare
+      le scelte e le decisioni che prendiamo quotidianamente.
     actions: []
     grid_items:
       - title: 01.
