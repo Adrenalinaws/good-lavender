@@ -4,7 +4,6 @@ date: '2021-01-04'
 categories: []
 thumb_image: images/thoughtful-kangaroo.jpeg
 image: images/backgroung_homepage.jpeg
-image_alt: Episode 9 placeholder image
 image_position: top
 seo:
   title: Episode 9 - Pythagoras Et Aegyptum Lustravit
