@@ -158,7 +158,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: 05.
-        subtitle: lorem-ipsum
+        subtitle: 'Aiutare la gente, filosofia di Adrenalina'
         title_align: left
         content: >
           ## Impatto
