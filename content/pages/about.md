@@ -124,7 +124,7 @@ sections:
         subtitle: 'Aiutare la gente, filosofia di Adrenalina'
         title_align: left
         content: >
-          ## Impatto
+          ### Impatto
 
 
           Sin dall’inizio, la possibilità di avere un impatto reale, aiutando le
