@@ -35,8 +35,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items:
       - title_align: left
         content_align: left
