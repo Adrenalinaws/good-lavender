@@ -44,14 +44,13 @@ sections:
       - title: 01.
         subtitle: L'ottimismo è alla base dei nostri valori
         title_align: left
-        content: >+
-          # Ottimismo 
+        content: >
+          ### Ottimismo
 
 
           Un grande ottimismo ci ha sempre guidato verso un mondo pieno di
           opportunità. Affrontiamo tutte le sfide con consapevolezza e
           positività
-
         content_align: left
         actions: []
         actions_align: left
