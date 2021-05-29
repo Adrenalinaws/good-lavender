@@ -108,7 +108,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Copy of Untitled (8).png
+        image: images/Copy of Untitled (9).png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
