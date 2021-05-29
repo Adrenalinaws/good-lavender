@@ -138,7 +138,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: 04.
-        subtitle: lorem-ipsum
+        subtitle: Ogni cambiamento porta nuove idee
         title_align: left
         content: >+
           ## Cambiamento
