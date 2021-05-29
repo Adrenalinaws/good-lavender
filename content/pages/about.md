@@ -35,7 +35,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: images/pattern.svg
+    background_image: images/adrenalina's history (5).png
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
