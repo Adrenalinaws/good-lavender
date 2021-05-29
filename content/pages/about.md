@@ -171,7 +171,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Untitled design (8).png
+    image: images/Untitled design (12).png
   - content: "I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo\_passo\_in ogni cosa tu voglia fare. Adrenalina non è semplicemente\_un' azienda\_di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online.\_  \n"
     actions: []
     image_alt: lorem-ipsum
