@@ -35,40 +35,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: sixty
-    align: center
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/BaMFFPNGapk" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - content: "I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo\_passo\_in ogni cosa tu voglia fare. Adrenalina non è semplicemente\_un' azienda\_di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online.\_  \n"
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - subtitle: >-
       La nostra cultura e la filosofia del Never Sleep si fondano su 5 valori
       che condividiamo con il team fin dai primi giorni in Caffeina, affinché
@@ -191,6 +157,40 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: VALORI
+  - actions: []
+    image_alt: lorem-ipsum
+    media_position: top
+    media_width: sixty
+    align: center
+    padding_top: none
+    padding_bottom: none
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/BaMFFPNGapk" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - content: "I servizi di adrenalina sono studiati nei minimi dettagli da esperti del settore, l'equipe ti seguirà passo\_passo\_in ogni cosa tu voglia fare. Adrenalina non è semplicemente\_un' azienda\_di marketing, è il posto in cui ti senti sicuro in un mondo nuovo e spaventoso come quello online.\_  \n"
+    actions: []
+    image_alt: lorem-ipsum
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
 seo:
   title: ''
   description: ''
