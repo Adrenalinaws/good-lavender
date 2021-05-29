@@ -60,7 +60,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Copy of Copy of Copy of Copy of Copy of Untitled.png
+        image: images/183202262_104418545156456_3199161699429523615_n.jpg
       - title_align: left
         content_align: left
         actions: []
