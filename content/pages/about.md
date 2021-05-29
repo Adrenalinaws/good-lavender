@@ -60,7 +60,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Copy of Untitled (2).png
+        image: images/Copy of Untitled (3).png
       - title_align: left
         content_align: left
         actions: []
