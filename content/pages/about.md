@@ -60,7 +60,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/post-10.jpg
+        image: images/thumbnail_IMG_20210529_150157.jpg
       - title_align: left
         content_align: left
         actions: []
