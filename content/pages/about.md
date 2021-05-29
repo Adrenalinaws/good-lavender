@@ -76,7 +76,7 @@ sections:
     actions: []
     grid_items:
       - title: 01.
-        subtitle: lorem-ipsum
+        subtitle: L'ottimismo è alla base dei nostri valori
         title_align: left
         content: >+
           # Ottimismo 
