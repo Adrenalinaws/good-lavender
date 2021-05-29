@@ -70,7 +70,7 @@ sections:
         image_position: top
         image_width: sixty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/post-2.jpg
       - title_align: left
