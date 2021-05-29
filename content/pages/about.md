@@ -15,7 +15,7 @@ sections:
     background_image_position: center top
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: images/Untitled design (8).png
+    background_image: images/Untitled design (9).png
     subtitle: ‏‏‎ ‎
     content: |
       ‏‏‎ ‎
