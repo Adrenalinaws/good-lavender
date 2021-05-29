@@ -64,14 +64,13 @@ sections:
       - title: 02.
         subtitle: 'Fidandoci, è così che andiamo avanti'
         title_align: left
-        content: >+
-          ## Fiducia
+        content: >
+          ### Fiducia
 
 
           Il nostro ingrediente segreto? La fiducia che sappiamo trasmettere a
           colleghi e clienti. In questo modo abbiamo costruito una realtà
           solida.
-
         content_align: left
         actions: []
         actions_align: left
