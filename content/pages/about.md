@@ -75,7 +75,7 @@ sections:
       possano guidare le scelte e le decisioni che prendiamo quotidianamente.
     actions: []
     grid_items:
-      - title: '0.1'
+      - title: 01.
         subtitle: lorem-ipsum
         title_align: left
         content: >-
