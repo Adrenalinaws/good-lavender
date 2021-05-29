@@ -48,9 +48,9 @@ sections:
           ### Ottimismo
 
 
-          Un grande ottimismo ci ha sempre guidato verso un mondo pieno di
+          *Un grande ottimismo ci ha sempre guidato verso un mondo pieno di
           opportunità. Affrontiamo tutte le sfide con consapevolezza e
-          positività
+          positività*
         content_align: left
         actions: []
         actions_align: left
