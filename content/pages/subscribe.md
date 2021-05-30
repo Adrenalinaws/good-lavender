@@ -42,6 +42,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        name: Numero di telefono
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
