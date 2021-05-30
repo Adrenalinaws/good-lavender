@@ -310,7 +310,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: lorem-ipsum
+        name: Il tuo nome
         label: Nome
         default_value: lorem-ipsum
         options: []
