@@ -333,7 +333,7 @@ sections:
       - input_type: number
         name: Numero di telefono
         label: Numero di telefono
-        default_value: lorem-ipsum
+        default_value: i
         options: []
         is_required: false
         type: form_field
