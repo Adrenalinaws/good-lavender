@@ -319,7 +319,7 @@ sections:
       - input_type: text
         name: Il tuo indirizzo e-mail
         label: Email
-        default_value: Il tuo indirizzo e
+        default_value: Il tuo indirizzo e-mail
         options: []
         is_required: false
         type: form_field
