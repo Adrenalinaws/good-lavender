@@ -314,7 +314,7 @@ sections:
         label: Email
         default_value: Il tuo indirizzo e-mail
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: number
         name: Numero di telefono
