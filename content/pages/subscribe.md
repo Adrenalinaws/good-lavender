@@ -50,7 +50,7 @@ sections:
           Capisco e accetto che questo form stia immagazzinando i miei dati
           cosicche io possa essere contattato
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Invia
     align_vert: top
