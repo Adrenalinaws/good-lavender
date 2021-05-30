@@ -225,17 +225,12 @@ sections:
         type: grid_item
       - title: '0.6'
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ### Talento
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Il talento è un arte innata che se accompagnata dagli altri nostri
+          valori porta al successo indiscusso.
         content_align: left
         actions: []
         actions_align: left
