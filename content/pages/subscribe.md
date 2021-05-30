@@ -37,7 +37,6 @@ sections:
         is_required: false
         type: form_field
       - input_type: tel
-        name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
