@@ -315,6 +315,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: Il tuo nome
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
