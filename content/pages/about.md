@@ -223,7 +223,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: '0.6'
+      - title: 06.
         title_align: left
         content: >
           ### Talento
