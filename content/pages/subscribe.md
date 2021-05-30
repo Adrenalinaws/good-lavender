@@ -48,7 +48,7 @@ sections:
         label: lorem-ipsum
         default_value: >-
           Capisco e accetto che questo form stia immagazzinando i miei dati
-          cosicche io possa essere 
+          cosicche io possa essere contattato
         options: []
         is_required: false
         type: form_field
