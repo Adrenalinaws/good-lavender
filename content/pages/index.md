@@ -163,7 +163,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: tel
-        label: lorem-ipsum
+        label: Il tuo numero di telefono
         default_value: lorem-ipsum
         options: []
         is_required: false
