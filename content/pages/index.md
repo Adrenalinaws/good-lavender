@@ -157,7 +157,7 @@ sections:
         label: Il tuo numero di telefono
         default_value: Il tuo numero di telefono
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: Numero di telefono
       - input_type: textarea
