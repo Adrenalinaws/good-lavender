@@ -46,9 +46,6 @@ sections:
       - input_type: checkbox
         name: lorem-ipsum
         label: lorem-ipsum
-        default_value: >-
-          Capisco e accetto che questo form stia immagazzinando i miei dati
-          cosicche io possa essere contattato
         options: []
         is_required: true
         type: form_field
