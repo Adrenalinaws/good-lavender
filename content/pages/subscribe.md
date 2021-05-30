@@ -38,7 +38,7 @@ sections:
         type: form_field
       - input_type: tel
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: Numero di telefono
         label: Numero di telefono
