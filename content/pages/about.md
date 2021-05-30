@@ -321,7 +321,7 @@ sections:
         label: Numero di telefono
         default_value: Il tuo numero di telefono
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: textarea
         name: Domanda
