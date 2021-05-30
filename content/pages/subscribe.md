@@ -46,7 +46,9 @@ sections:
       - input_type: checkbox
         name: lorem-ipsum
         label: lorem-ipsum
-        default_value: 'Capisco e accetto che questo form stia immagazzinando i miei dati '
+        default_value: >-
+          Capisco e accetto che questo form stia immagazzinando i miei dati
+          cosicc
         options: []
         is_required: false
         type: form_field
