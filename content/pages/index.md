@@ -166,6 +166,9 @@ sections:
       - input_type: checkbox
         name: consent
         is_required: true
+        label: >-
+          Capisco e accetto che questo form sta immagazzinando le mie
+          informazioni cosicche io possa essere contattato
     submit_label: Invia
     align_vert: top
     padding_top: medium
