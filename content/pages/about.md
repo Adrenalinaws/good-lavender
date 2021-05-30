@@ -316,7 +316,7 @@ sections:
         is_required: false
         type: form_field
         default_value: Il tuo nome
-      - input_type: text
+      - input_type: email
         name: Il tuo indirizzo e-mail
         label: Email
         default_value: Il tuo indirizzo e-mail
