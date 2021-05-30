@@ -326,7 +326,7 @@ sections:
       - input_type: text
         name: Domanda
         label: Domanda
-        default_value: lorem-ipsum
+        default_value: 'Scrivi '
         options: []
         is_required: false
         type: form_field
