@@ -332,7 +332,7 @@ sections:
         type: form_field
       - input_type: number
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Numero di telefono
         default_value: lorem-ipsum
         options: []
         is_required: false
