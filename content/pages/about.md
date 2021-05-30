@@ -323,7 +323,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: textarea
         name: Domanda
         label: Domanda
         default_value: Scrivi qualcosa qui...
