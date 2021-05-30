@@ -300,7 +300,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: contact-form
-    form_action: lorem-ipsum
+    form_action: /thank
     form_fields:
       - input_type: text
         name: Il tuo nome
