@@ -296,7 +296,7 @@ sections:
       di più? Scrivici nella form box
     content_align: left
     form_position: right
-    form_width: fourty
+    form_width: sixty
     form_layout: stacked
     enable_card: true
     form_id: lorem-ipsum
