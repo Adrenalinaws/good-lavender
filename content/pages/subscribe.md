@@ -42,7 +42,7 @@ sections:
         is_required: false
         type: form_field
         name: Numero di telefono
-        label: Il num
+        label: 'Il tuo numero di '
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
