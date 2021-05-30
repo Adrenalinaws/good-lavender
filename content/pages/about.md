@@ -333,7 +333,7 @@ sections:
       - input_type: number
         name: Numero di telefono
         label: Numero di telefono
-        default_value: i
+        default_value: Il tuo numero di telefono
         options: []
         is_required: false
         type: form_field
