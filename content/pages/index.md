@@ -178,6 +178,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 98
+    title: Numero di telefono
   - type: grid_section
     title: PARTNERS
     align: center
