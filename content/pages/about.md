@@ -317,7 +317,7 @@ sections:
         type: form_field
         default_value: Il tuo nome
       - input_type: text
-        name: lorem-ipsum
+        name: Il tuo indirizzo e-mail
         label: Email
         default_value: lorem-ipsum
         options: []
