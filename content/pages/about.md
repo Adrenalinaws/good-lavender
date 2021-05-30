@@ -325,7 +325,7 @@ sections:
         type: form_field
       - input_type: text
         name: Domanda
-        label: lorem-ipsum
+        label: Domanda
         default_value: lorem-ipsum
         options: []
         is_required: false
