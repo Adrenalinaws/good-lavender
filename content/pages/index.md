@@ -153,6 +153,13 @@ sections:
         label: Email
         default_value: Il tuo indirizzo e-mail
         is_required: true
+      - input_type: tel
+        label: Il tuo numero di telefono
+        default_value: Il tuo numero di telefono
+        options: []
+        is_required: false
+        type: form_field
+        name: Numero di telefono
       - input_type: textarea
         name: message
         label: Domanda
@@ -162,13 +169,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: tel
-        label: Il tuo numero di telefono
-        default_value: Il tuo numero di telefono
-        options: []
-        is_required: false
-        type: form_field
-        name: Numero di telefono
     submit_label: Invia
     align_vert: top
     padding_top: medium
