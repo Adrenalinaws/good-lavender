@@ -41,7 +41,7 @@ sections:
         is_required: false
         type: form_field
         name: Numero di telefono
-        label: Il tuo numero di telefono
+        label: Numero di telefono
         default_value: Il tuo numero di telefono
       - input_type: text
         name: lorem-ipsum
