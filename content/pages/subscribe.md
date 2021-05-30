@@ -43,7 +43,7 @@ sections:
         name: Numero di telefono
         label: Numero di telefono
         default_value: Il tuo numero di telefono
-      - input_type: text
+      - input_type: checkbox
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
