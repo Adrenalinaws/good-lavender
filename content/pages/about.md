@@ -319,7 +319,7 @@ sections:
       - input_type: text
         name: Il tuo indirizzo e-mail
         label: Email
-        default_value: lorem-ipsum
+        default_value: Il tuo indirizzo e
         options: []
         is_required: false
         type: form_field
