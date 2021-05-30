@@ -162,7 +162,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: number
+      - input_type: tel
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
