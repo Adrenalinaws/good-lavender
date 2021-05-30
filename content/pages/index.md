@@ -164,7 +164,7 @@ sections:
         is_required: true
       - input_type: tel
         label: Il tuo numero di telefono
-        default_value: lorem-ipsum
+        default_value: Il tuo numero di telefono
         options: []
         is_required: false
         type: form_field
