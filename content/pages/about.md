@@ -312,7 +312,6 @@ sections:
       - input_type: text
         name: Il tuo nome
         label: Nome
-        default_value: ' lI'
         options: []
         is_required: false
         type: form_field
