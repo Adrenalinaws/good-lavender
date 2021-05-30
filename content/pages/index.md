@@ -163,6 +163,7 @@ sections:
       - input_type: textarea
         name: message
         label: Domanda
+        is_required: true
       - input_type: checkbox
         name: consent
         is_required: true
