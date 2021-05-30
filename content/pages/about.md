@@ -316,7 +316,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: number
+      - input_type: tel
         name: Numero di telefono
         label: Numero di telefono
         default_value: Il tuo numero di telefono
