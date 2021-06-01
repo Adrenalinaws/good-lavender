@@ -26,7 +26,7 @@ sections:
       - input_type: email
         default_value: La tua email
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: La tua mail
         label: Email
