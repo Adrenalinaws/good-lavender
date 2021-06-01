@@ -109,7 +109,7 @@
                 "url": "https://www.tiktok.com/@user6291358650685?_d=secCgYIASAHKAESMgowMSv1tOrUs224xEmzvK8Pv47lzwcCEoPU6Jf1zUXp9uozMwdRMwXudNOR0QMUqhfiGgA%3D&language=it&preview_pb=0&share_app_name=musically&share_item_id=6934048353449774342&timestamp=1614504283&u_code=d9aa052l504dgd&user_id=6759647089259103237&utm_campaign=client_share&utm_medium=android&utm_source=copy&source=h5_m&is_copy_url=1&is_from_webapp=v1&lang=it-IT",
                 "style": "link",
                 "has_icon": true,
-                "icon": "spotify",
+                "icon": "arrow-left",
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false,
