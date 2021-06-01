@@ -43,6 +43,7 @@ sections:
         options: []
         is_required: true
         type: form_field
+        default_value: Scrivi qualcosa qui...
       - input_type: checkbox
         name: lorem-ipsum
         label: >-
