@@ -20,7 +20,7 @@ sections:
         name: Il tuo nome
         default_value: Il tuo nome
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         label: Nome
       - input_type: email
