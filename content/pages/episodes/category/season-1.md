@@ -2,7 +2,7 @@
 title: 'Episodes, Season 1'
 sections:
   - type: hero_section
-    title: episodes
+    title: servizi
     subtitle: Season 1
     align: center
     padding_top: medium
