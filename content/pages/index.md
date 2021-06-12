@@ -214,7 +214,7 @@ sections:
     background_color: none
     subtitle: 'Siamo sostenuti da fantastiche aziende '
 seo:
-  title: Stackbit Podcaster Theme
+  title: Adrenalina
   description: The preview of the Podcaster theme
   extra:
     - name: 'og:type'
