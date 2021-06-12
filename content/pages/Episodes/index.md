@@ -46,7 +46,7 @@ sections:
     background_color: secondary
     subtitle: Ricevi notifiche su nuovi servizi o promozioni
 seo:
-  title: Episodes
+  title: Servizi
   description: This is the episodes page
   extra:
     - name: 'og:type'
