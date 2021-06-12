@@ -1,8 +1,6 @@
 ---
 subtitle: 'Progetto in preparazione, non ancora disponibile'
 date: '2020-07-15'
-categories:
-  - content/data/categories/season-1.yaml
 thumb_image: images/responsabledvpdesrh_440x284.jpg
 thumb_image_alt: Podcast 1 placeholder image
 image: images/post-1.jpg
