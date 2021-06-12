@@ -8,7 +8,7 @@ thumb_image_alt: Podcast 1 placeholder image
 image: images/post-1.jpg
 image_alt: Podcast 1 placeholder image
 image_position: left
-ricerca_risorse_umane_embed_html: >-
+ricerca-risorse-umane_embed_html: >-
   <iframe width="100%" height="166" scrolling="no" frameborder="no"
   allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
