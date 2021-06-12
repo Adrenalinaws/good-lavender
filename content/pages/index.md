@@ -216,11 +216,10 @@ sections:
 seo:
   title: Adrenalina web services
   description: >-
-    ad 
-
-    Realizziamo il tuo sito web bello, performante e visibile su tutti i
-    dispositivi. Sviluppiamo Siti Web con Strategie finalizzate a ottenere
-    risultati Reali. Creazione del tuo sito. Web Agency.
+    Qui da adrenalina web services  realizziamo il tuo sito web bello,
+    performante e visibile su tutti i dispositivi. Sviluppiamo Siti Web con
+    Strategie finalizzate a ottenere risultati Reali. Creazione del tuo sito.
+    Web Agency.
   extra:
     - name: 'og:type'
       value: website
