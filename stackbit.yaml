@@ -355,7 +355,7 @@ models:
     urlPath: '/servizi/{slug}'
     label: Post
     layout: post
-    folder: episodes
+    folder: servizi
     exclude:
       - index.md
       - category/**
