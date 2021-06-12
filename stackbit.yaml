@@ -339,7 +339,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: servizi/**/*
+    exclude: episodes/**/*
     fields:
       - type: string
         name: title
