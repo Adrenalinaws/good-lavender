@@ -1,5 +1,5 @@
 ---
-title: acout
+title: about
 sections:
   - actions: []
     image_alt: ‏‏‎ ‎
