@@ -215,7 +215,12 @@ sections:
     subtitle: 'Siamo sostenuti da fantastiche aziende '
 seo:
   title: Adrenalina web services
-  description: The preview of the Podcaster theme
+  description: >-
+    ad 
+
+    Realizziamo il tuo sito web bello, performante e visibile su tutti i
+    dispositivi. Sviluppiamo Siti Web con Strategie finalizzate a ottenere
+    risultati Reali. Creazione del tuo sito. Web Agency.
   extra:
     - name: 'og:type'
       value: website
