@@ -56,7 +56,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Episodes
+      value: servizi
       keyName: property
     - name: 'og:description'
       value: This is the episodes page
