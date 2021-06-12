@@ -59,7 +59,10 @@ seo:
       value: servizi
       keyName: property
     - name: 'og:description'
-      value: This is the episodes page
+      value: >-
+        I nostri servizi di creazione di sito web e social media marketing sono
+        a disposizione del nostro cliente ad un prezzo molto basso e una qualità
+        molto alta 
       keyName: property
     - name: 'og:image'
       value: images/post-9.jpg
