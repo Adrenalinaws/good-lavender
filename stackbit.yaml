@@ -430,7 +430,7 @@ models:
           The featured image position in the blog post relative to the post
           header content
       - type: text
-        name: episode_embed_html
+        name: servizi_embed_html
         label: Podcast Episode Embed Code
         description: The HTML embed code for your podcast episode
       - type: model
