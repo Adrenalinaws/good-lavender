@@ -49,8 +49,7 @@ seo:
   title: Servizi
   description: >-
     I nostri servizi di creazione di sito web e social media marketing sono a
-    disposizione del nostro cliente ad un prezzo molto basso e una qualità molto
-    alta 
+    disposizione del nostro cliente ad un 
   extra:
     - name: 'og:type'
       value: website
