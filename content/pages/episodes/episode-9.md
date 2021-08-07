@@ -35,7 +35,11 @@ layout: post
 ---
 # **Vendi i tuoi servizi online**
 
-![](/\_static/app-assets/thoughtful-aspen.png)
+****
+
+****![](images/Progetto%20senza%20titolo%20\(4\).png)
+
+
 
 Offri servizi online e vuoi farli prenotare online sul tuo sito? Con il nuovo componente Servizi di Flazio puoi farlo con facilità! Potrai infatti configurare e rendere disponibili online diverse tipologie di servizi: i tuoi clienti potranno prenotare un corso, fissare un appuntamento con te o con un professionista del tuo staff, noleggiare qualsiasi tipo di prodotto oppure acquistare pacchetti. Qualsiasi sia il servizio che offri, i tuoi clienti potranno selezionare la data del servizio e pagarlo direttamente online.
 
@@ -44,6 +48,8 @@ Offri servizi online e vuoi farli prenotare online sul tuo sito? Con il nuovo co
 I tuoi visitatori potranno pagare utilizzando comodamente la loro carta di credito, carta Bancomat o prepagata.
 
 ## **Pagamenti sicuri**
+
+****
 
 Con il tuo sito web avrai la possibilità di fornire un pagamento online sicuro con sistemi di pagamento come Pay Pal
 
