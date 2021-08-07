@@ -35,9 +35,9 @@ layout: post
 ---
 # **Vendi i tuoi servizi online**
 
-****
+***
 
-****![](images/Progetto%20senza%20titolo%20\(4\).png)
+![](images/Progetto%20senza%20titolo%20\(4\).png)
 
 
 
@@ -49,7 +49,7 @@ I tuoi visitatori potranno pagare utilizzando comodamente la loro carta di credi
 
 ## **Pagamenti sicuri**
 
-****
+***
 
 Con il tuo sito web avrai la possibilità di fornire un pagamento online sicuro con sistemi di pagamento come Pay Pal
 
