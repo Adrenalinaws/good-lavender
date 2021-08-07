@@ -1,8 +1,7 @@
 ---
 title: CREAZIONE SITO WEB
 date: '2021-01-04'
-categories:
-  - content/data/categories/category-zfm9la456.json
+categories: []
 thumb_image: images/thoughtful-kangaroo.jpeg
 image: images/backgroung_homepage.jpeg
 image_position: top
