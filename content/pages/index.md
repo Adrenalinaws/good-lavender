@@ -101,7 +101,7 @@ sections:
         content: |
           # Anas Bennar
 
-          Co-founder, Graphic Manager
+          Co-founder, Project Manager
         content_align: left
         actions: []
         actions_align: left
