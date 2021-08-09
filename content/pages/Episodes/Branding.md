@@ -9,7 +9,7 @@ image: images/brand-marketing.jpeg
 image_alt: Episode 8 placeholder image
 image_position: right
 seo:
-  title: Episode 8 - Litteram Videor An Totas Paginas
+  title: Branding
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
