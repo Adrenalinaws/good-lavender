@@ -6,7 +6,7 @@ thumb_image: images/thoughtful-kangaroo.jpeg
 image: images/backgroung_homepage.jpeg
 image_position: top
 seo:
-  title: Episode 9 - Pythagoras Et Aegyptum Lustravit
+  title: Creazione sito web - Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
