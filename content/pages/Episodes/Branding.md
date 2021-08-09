@@ -11,7 +11,7 @@ image_position: right
 seo:
   title: Branding
   description: 
-Consumatori. Come discusso in precedenza, un brand fornisce ai consumatori una sorta di scorciatoia per prendere decisioni quando si sentono indecisi sullo stesso prodotto di aziende diverse.
+
   extra:
     - name: 'og:type'
       value: article
