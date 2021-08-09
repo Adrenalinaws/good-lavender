@@ -8,7 +8,7 @@ image: images/fotonerd-frasi-che-fanno-arrabbiare-i-fotografi-1.jpg
 image_alt: Episode 7 placeholder image
 image_position: left
 seo:
-  title: Episode 7 - Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+  title: Materiale grafico
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
