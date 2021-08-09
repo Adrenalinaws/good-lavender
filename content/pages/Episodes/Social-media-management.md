@@ -16,7 +16,7 @@ episode_embed_html: >-
   allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 seo:
-  title: Episode 5 - Callipho Ad Virtutem Nihil Adiunxit
+  title: Social media management
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
